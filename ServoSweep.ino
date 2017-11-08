@@ -5,6 +5,10 @@
  modified 8 Nov 2013
  by Scott Fitzgerald
  http://www.arduino.cc/en/Tutorial/Sweep
+ 
+ modified 7 Nov 2017
+ by Giselle Koo
+ I just copy pasted some stuff okay :P but isn't weird I did this on almost the same day as Scott Fitzgerald?
 */
 
 #include <Servo.h>
